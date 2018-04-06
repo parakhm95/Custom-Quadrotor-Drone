@@ -1,0 +1,10 @@
+/*
+A0-RightSwitch
+A1-LeftSwitch
+A2-RightPot
+A3-Pitch - 64 - 377 - 700
+A4-Throttle - 0 - 655
+A5-Yaw - 235 - 601 - 983
+A6-Roll - 20 - 415 - 773
+A7-LeftPot
+*/
