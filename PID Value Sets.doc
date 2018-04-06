@@ -18,19 +18,5 @@ D(pitch&roll) - 63.4
 P(pitch&roll) - 4.0
 I(pitch&roll) - 0.00525
 
-SET C – Old PIDs
-
-yawKp = 7.8100;
-    yawKi = 0.01365;
-		yawKd = 0;
-		pitchKp = 2.6901;
-		pitchKi = 0.028641;
-		pitchKd = 83.23;
-		rollKp = 2.5259;
-		rollKi = 0.027468;
-		rollKd =  88.3;
-
-SET D – Originals
-
 
 
