@@ -26,7 +26,7 @@ P(Pitch & Roll) - 1.3
 I(Pitch & Roll) - 0.0105
 D(Pitch & Roll) - 68.4
 
-P(Yaw) - 4.0
+P(Yaw) - 4.0 \\
 I(Yaw) - 0.00525
 
 
@@ -37,7 +37,7 @@ P(Pitch & Roll) - 2.5
 I(Pitch & Roll) - 0.0105
 D(Pitch & Roll) - 63.4
 
-P(Yaw) - 4.0
+P(Yaw) - 4.0 \\
 I(Yaw) - 0.00525
 
 
